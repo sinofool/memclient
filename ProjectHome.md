@@ -1,0 +1,1 @@
+Antoher memcache client impliment in Java
